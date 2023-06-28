@@ -1,2 +1,2 @@
-Prima tema la PT- Calculatorul Polinomial.
+Calculatorul Polinomial.
 
